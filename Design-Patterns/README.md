@@ -9,6 +9,8 @@
                 
                    5 Patterns         7 Patterns         11 Patterns
 
+## Creational Design Pattern
+
 | Creational Design Pattern | Purpose |
 | --- | --- |
 | Singleton | Ensure only one object exists. |
@@ -16,6 +18,8 @@
 | Abstract Factory | Create families of related objects. |
 | Builder | Build complex objects step by step. |
 | Prototype | Create new objects by copying existing ones. |
+
+## Structural Design Pattern
 
 | Structural Design Pattern | Purpose |
 | --- | --- |
@@ -26,6 +30,9 @@
 | Facade | Provide a simple interface to a complex system. |
 | Flyweight | Share objects to save memory. |
 | Proxy | Control access to another object. |
+
+
+## Behavioral Design Pattern
 
 | Behavioral Design Pattern | Purpose |
 | --- | --- |
